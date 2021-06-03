@@ -1,0 +1,158 @@
+[
+  {
+      "codProduto": 25754,
+      "id": 1,
+      "descricao": "ADAPTADOR BLUETOOH USB RECEPTOR DE AUDIO P2",
+      "preco": 5.0,
+      "qtdEstoque": 10,
+      "disponivel": "sim",
+      "emDestaque": "sim",
+      "departamento": {
+          "nomeDepto": "Adaptadores"
+      }
+  },
+  {
+      "codProduto": 20212,
+      "id": 2,
+      "descricao": "ADAPTADOR CONECTOR HDMI FEMEA L / FEMEA",
+      "preco": 2.8,
+      "qtdEstoque": 20,
+      "disponivel": "sim",
+      "emDestaque": "sim",
+      "departamento": {
+          "nomeDepto": "Adaptadores"
+      }
+  },
+  {
+      "codProduto": 21300,
+      "id": 3,
+      "descricao": "ADAPTADOR CONECTOR HDMI MACHO L / FEMEA",
+      "preco": 3.5,
+      "qtdEstoque": 10,
+      "disponivel": "sim",
+      "emDestaque": "nao",
+      "departamento": {
+          "nomeDepto": "Adaptadores"
+      }
+  },
+  {
+      "codProduto": 26608,
+      "id": 4,
+      "descricao": "ADAPTADOR CONVERSOR 2VGA/RCA/S-VIDEO PRATA",
+      "preco": 10.4,
+      "qtdEstoque": 10,
+      "disponivel": "sim",
+      "emDestaque": "sim",
+      "departamento": {
+          "nomeDepto": "Adaptadores"
+      }
+  },
+  {
+      "codProduto": 13539,
+      "id": 5,
+      "descricao": "ADAPTADOR CONVERSOR HDMI / RCA FULLHD 1080 BRANCO",
+      "preco": 14.0,
+      "qtdEstoque": 5,
+      "disponivel": "sim",
+      "emDestaque": "nao",
+      "departamento": {
+          "nomeDepto": "Adaptadores"
+      }
+  },
+  {
+      "codProduto": 13896,
+      "id": 6,
+      "descricao": "ADAPTADOR EXTENDER / RJ45 BEGE",
+      "preco": 1.0,
+      "qtdEstoque": 101,
+      "disponivel": "sim",
+      "emDestaque": "sim",
+      "departamento": {
+          "nomeDepto": "Adaptadores"
+      }
+  },
+  {
+      "codProduto": 22252,
+      "id": 7,
+      "descricao": "ADAPTADOR EXTENDER HDMI / RJ45 30M RX/TX 4K FHD AZUL",
+      "preco": 16.5,
+      "qtdEstoque": 10,
+      "disponivel": "sim",
+      "emDestaque": "sim",
+      "departamento": {
+          "nomeDepto": "Adaptadores"
+      }
+  },
+  {
+      "codProduto": 16991,
+      "id": 8,
+      "descricao": "ADAPTADOR EXTENDER HDMI / RJ45 60M",
+      "preco": 39.0,
+      "qtdEstoque": 120,
+      "disponivel": "sim",
+      "emDestaque": "sim",
+      "departamento": {
+          "nomeDepto": "Adaptadores"
+      }
+  },
+  {
+      "codProduto": 7186,
+      "id": 9,
+      "descricao": "ADAPTADOR GRAVADOR CADDY NB 9.5MM / HD 2.5 SATA",
+      "preco": 9.5,
+      "qtdEstoque": 21,
+      "disponivel": "sim",
+      "emDestaque": "nao",
+      "departamento": {
+          "nomeDepto": "Adaptadores"
+      }
+  },
+  {
+      "codProduto": 7559,
+      "id": 10,
+      "descricao": "ADAPTADOR HDMI FEMEA / DVI MACHO",
+      "preco": 4.0,
+      "qtdEstoque": 21,
+      "disponivel": "sim",
+      "emDestaque": "sim",
+      "departamento": {
+          "nomeDepto": "Adaptadores"
+      }
+  },
+  {
+      "codProduto": 25876,
+      "id": 11,
+      "descricao": "ADAPTADOR HDMI HEMDRA/ MINI HDMI/MICRO HDMI MACHO",
+      "preco": 3.0,
+      "qtdEstoque": 5,
+      "disponivel": "sim",
+      "emDestaque": "sim",
+      "departamento": {
+          "nomeDepto": "Adaptadores"
+      }
+  },
+  {
+      "codProduto": 21299,
+      "id": 12,
+      "descricao": "ADAPTADOR HDMI MACHO / DVI FEMEA",
+      "preco": 6.5,
+      "qtdEstoque": 81,
+      "disponivel": "sim",
+      "emDestaque": "sim",
+      "departamento": {
+          "nomeDepto": "Adaptadores"
+      }
+  },
+  {
+      "codProduto": 15464,
+      "id": 13,
+      "descricao": "ADAPTADOR HDMI/VGA/AUDIO PRETO",
+      "preco": 9.5,
+      "qtdEstoque": 91,
+      "disponivel": "sim",
+      "emDestaque": "sim",
+      "departamento": {
+          "nomeDepto": "Adaptadores"
+      }
+  }
+]
